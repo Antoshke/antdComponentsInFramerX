@@ -15,8 +15,8 @@
             "__class" : "CodeComponentNode",
             "aspectRatio" : null,
             "bottom" : null,
-            "centerAnchorX" : 0.23568281938325991,
-            "centerAnchorY" : 0.064039408866995079,
+            "centerAnchorX" : 0.048958333333333333,
+            "centerAnchorY" : 0.04777777777777778,
             "children" : [
 
             ],
@@ -49,7 +49,7 @@
             "id" : "WuZ3FCdif",
             "intrinsicHeight" : null,
             "intrinsicWidth" : null,
-            "left" : 8,
+            "left" : 25,
             "locked" : false,
             "name" : null,
             "opacity" : 1,
@@ -64,7 +64,7 @@
             "radiusTopRight" : 0,
             "right" : null,
             "rotation" : 0,
-            "top" : 0,
+            "top" : 30,
             "visible" : true,
             "width" : 91,
             "widthType" : 0
@@ -72,9 +72,9 @@
           {
             "__class" : "CodeComponentNode",
             "aspectRatio" : null,
-            "bottom" : 63,
-            "centerAnchorX" : 0.49779735682819382,
-            "centerAnchorY" : 0.6354679802955665,
+            "bottom" : null,
+            "centerAnchorX" : 0.10104166666666667,
+            "centerAnchorY" : 0.2361111111111111,
             "children" : [
 
             ],
@@ -102,12 +102,12 @@
             "fillImagePixelWidth" : null,
             "fillImageResize" : "fill",
             "fillType" : "color",
-            "height" : 22,
+            "height" : 23,
             "heightType" : 0,
             "id" : "i4U8E5M_Y",
             "intrinsicHeight" : null,
             "intrinsicWidth" : null,
-            "left" : 13,
+            "left" : 25,
             "locked" : false,
             "name" : null,
             "opacity" : 1,
@@ -120,19 +120,19 @@
             "radiusPerCorner" : false,
             "radiusTopLeft" : 0,
             "radiusTopRight" : 0,
-            "right" : 14,
+            "right" : null,
             "rotation" : 0,
-            "top" : null,
+            "top" : 201,
             "visible" : true,
-            "width" : 200,
+            "width" : 241,
             "widthType" : 0
           },
           {
             "__class" : "CodeComponentNode",
             "aspectRatio" : null,
             "bottom" : null,
-            "centerAnchorX" : 0.32819383259911894,
-            "centerAnchorY" : 0.39655172413793105,
+            "centerAnchorX" : 0.063541666666666663,
+            "centerAnchorY" : 0.14277777777777778,
             "children" : [
 
             ],
@@ -165,7 +165,7 @@
             "id" : "CMCEf_9Mr",
             "intrinsicHeight" : null,
             "intrinsicWidth" : null,
-            "left" : 8,
+            "left" : 25,
             "locked" : false,
             "name" : null,
             "opacity" : 1,
@@ -180,7 +180,7 @@
             "radiusTopRight" : 0,
             "right" : null,
             "rotation" : 0,
-            "top" : 59,
+            "top" : 107,
             "visible" : true,
             "width" : 133,
             "widthType" : 0
@@ -189,7 +189,7 @@
         "clip" : true,
         "codeOverrideEnabled" : false,
         "constraintsLocked" : false,
-        "deviceType" : null,
+        "deviceType" : "framer\/FramerAppleMacBookPro",
         "exportOptions" : [
 
         ],
@@ -207,7 +207,7 @@
         "fillImagePixelWidth" : null,
         "fillImageResize" : "fill",
         "fillType" : "color",
-        "height" : 203,
+        "height" : 900,
         "heightType" : 0,
         "id" : "FduHaJmof",
         "intrinsicHeight" : null,
@@ -217,7 +217,7 @@
         "isTarget" : false,
         "left" : 266,
         "locked" : false,
-        "name" : null,
+        "name" : "Frame",
         "navigationTarget" : null,
         "navigationTransition" : "push",
         "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
@@ -247,7 +247,7 @@
         "rotation" : 0,
         "top" : 64,
         "visible" : true,
-        "width" : 227,
+        "width" : 1440,
         "widthType" : 0
       }
     ],
