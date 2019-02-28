@@ -1,7 +1,8 @@
 import * as React from "react";
 import { Button, Icon } from 'antd';
+import 'antd/dist/antd.css';
 
-export class antdButton extends React.Component {
+export class antd_button extends React.Component {
 
   render() {
     return (

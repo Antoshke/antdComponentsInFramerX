@@ -2,7 +2,7 @@ import * as React from "react";
 import { Tooltip } from 'antd';
 import 'antd/dist/antd.css';
 
-export class antdSelect extends React.Component {
+export class antd_tooltip extends React.Component {
 
   render() {
     return (

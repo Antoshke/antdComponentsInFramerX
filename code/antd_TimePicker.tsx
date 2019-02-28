@@ -2,10 +2,11 @@ import * as React from "react";
 import { TimePicker } from 'antd';
 import * as moment from 'moment';
 import { PropertyControls, ControlType } from "framer";
+import 'antd/dist/antd.css';
 
 type Props = { format: string };
 
-export class antd_TimePicker extends React.Component<Props> {
+export class antd_timePicker extends React.Component<Props> {
 
   render() {
     return (
